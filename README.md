@@ -1,7 +1,7 @@
 <H3> Name : IYYANAR S </H3>
 <H3>Register No : 212222240036</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE:24/02/2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
