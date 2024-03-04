@@ -4,7 +4,7 @@
 <H3>DATE:24/02/2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
-## Aim :
+## Aim  :
     To create a bayesian Network for the given dataset in Python
 ## Algorithm:
 ### Step 1:
